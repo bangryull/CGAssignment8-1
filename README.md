@@ -16,7 +16,7 @@ display() (main.cpp 내 렌더링 콜백 함수)
 
 2 결과 화면
 ![image](https://github.com/user-attachments/assets/31696495-4d60-4fd3-877c-785391b69b57)
-
+Average FPS: 1750
 
 3.1 필요 라이브러리
 GLEW: OpenGL 확장 기능
